@@ -18,6 +18,6 @@ This project allows users to create and manage a TextNow account. It provides th
 - Message sending and receiving functionality
 
 ## Demo
-Account check (bulk): [click here](https://tuberboy.com/tnc/)
+Account Checker (Bulk): [click here](https://tuberboy.com/tnc/)
 
 Thanks
