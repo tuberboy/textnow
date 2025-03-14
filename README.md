@@ -17,4 +17,7 @@ This project allows users to create and manage a TextNow account. It provides th
 - Account status verification (active/disabled)
 - Message sending and receiving functionality
 
+## Demo
+Account check (bulk): [click here](https://tuberboy.com/tnc/)
+
 Thanks
